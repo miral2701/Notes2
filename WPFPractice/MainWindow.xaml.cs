@@ -39,6 +39,7 @@ namespace WPFPractice
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
             listBox1.Items.Remove(listBox1.SelectedItem);
+
         }
     }
 }
